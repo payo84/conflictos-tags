@@ -6,7 +6,7 @@ public class calculado {
         int numero1;
         int numero2;
         int r;
-        System.out.println("primer cambio conflicto" +);
+        System.out.println("segundo cambio conflicto" +);
         System.out.println("1.suma");
         System.out.println("2.resta");
         System.out.println("3.multiplicación");
